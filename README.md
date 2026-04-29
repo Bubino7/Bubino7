@@ -12,10 +12,17 @@
 </p>
 
 ### 👨‍💻 About Me
+
+**Professional Experience (1+ year)**
+- 💼 Currently working as an **IT Support & Flutter Developer** for **Domácí péče Marie Jarošová s.r.o.** and **Chytrá Půjčovna s.r.o.**
+- 📱 Developing **internal efficiency tools** and **mobile apps** for staff and clients.
+
+**Education & Interests (4+ years of coding)**
 - 🚀 **Tech Enthusiast & Developer** focused on building functional web and mobile solutions.
-- 🎮 **Gamer & Aspiring Game Dev** currently working on my own project in **Unity**.
-- ⚡ **42 Prague student** – built a strong foundation in low-level programming (**C**).
-- 🛠️ **Problem Solver** – I enjoy exploring new tools to boost productivity.
+- 🛠️ **Personal Projects:** I have built and continue to develop various personal projects to explore new technologies and refine my craft.
+- 🎮 **Gamer & Aspiring Game Dev:** Currently working on my own project in **Unity**.
+- ⚡ **42 Prague student:** Built a strong foundation in low-level programming (**C**).
+- 🔨 **Problem Solver:** I enjoy exploring new tools to boost productivity.
 - 🌱 I believe in **consistency** and continuous growth in all aspects of life.
 
 ### 🛠 Tech Stack
