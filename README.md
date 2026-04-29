@@ -29,12 +29,12 @@
 
 | Category | Technologies |
 | --- | --- |
-| **Mobile** | `Flutter` `Dart` `Firebase` |
+| **Mobile** | `Flutter` `Dart` |
 | **Frontend** | `React` `JavaScript` `TypeScript` `HTML5/CSS3` |
-| **Backend & DB** | `Node.js` `SQL` `PostgreSQL` `Firebase Auth/Firestore` |
+| **Backend & DB** | `Node.js` `SQL` `PostgreSQL` `Firebase` |
 | **Low-Level** | `C` (42 Prague curriculum) |
 | **Game Dev** | `Unity` `C#` |
-| **Tools** | `Cursor` `Git` `GitHub` |
+| **Tools** | `Cursor` `VS Code` `Git` `GitHub` |
 
 ### 📚 Currently Learning
 - **Game Development:** Mastering C# and Unity architecture for personal projects.
