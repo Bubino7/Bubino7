@@ -42,8 +42,8 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Bubino7&show_icons=true&theme=dark&count_private=true" alt="Bubino's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bubino7&layout=compact&theme=dark&count_private=true" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=Bubino7&show_icons=true&theme=dark&count_private=true&cache_seconds=1800" alt="Bubino's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bubino7&layout=compact&theme=dark&count_private=true&cache_seconds=1800" alt="Top Langs" />
 </p>
 
 ---
